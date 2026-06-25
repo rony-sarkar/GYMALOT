@@ -106,7 +106,7 @@
     .navbar-header > label,
     .switch,
     .menu-container label {
-        display: block;
+        display: block !important;
     }
 
     #navbar {
