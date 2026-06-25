@@ -167,7 +167,7 @@ img {
 #menu-switcher,
 .navbar-header > label,
 .switch {
-    display: none;
+    display: none !important;
 }
 
 .menu-container label::before {
